@@ -3,7 +3,7 @@
 
 📍 El universo conspira a favor de los soñadores.
 
-🚀 ¿Qué hago actualmente?
+## 🚀 ¿Qué hago actualmente?
 <ul>
   <li>💻 <strong>Desarrollador en</strong> Empresa Colombiana de Logística. Creando sistemas para optimizar procesos en Recursos Humanos y otros.</li>
   <li>👩‍💻 <strong>Desarrollador Freelance</strong>. Creando un marketplace Digital o una Tienda de ropa.</li>
