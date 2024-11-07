@@ -32,7 +32,7 @@
 </ul>
 
 ## ✉ Contáctame
-
+- [Correo Eléctronico](mailto:bradanuma@gmail.com)
 
 
 <!--
