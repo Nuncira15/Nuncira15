@@ -11,8 +11,9 @@
 
 ## 🛠 Tecnologías y Herramientas 
 <ul>
-  <li><strong>Lenguajes:</strong> Python, Javascript, PHP</li>
-  <li><strong>Frameworks:</strong> Django, React, Next.js, Laravel</li>
+  <li><strong>Lenguajes:</strong> Python, Javascript</li>
+  <li><strong>Backend:</strong> Django, Node.js, Express.js</li>
+  <li><strong>Fronted:</strong> Tailwind, React, Redux</li>
   <li><strong>Bases de datos:</strong> PostgreSQL, MySQL</li>
   <li><strong>Recursos:</strong> Git</li>
   <li><strong>Servicios:</strong> Stripe</li>
