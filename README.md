@@ -12,11 +12,12 @@
 ## 🛠 Tecnologías y Herramientas 
 <ul>
   <li><strong>Lenguajes:</strong> Python, Javascript</li>
-  <li><strong>Backend:</strong> Django, Node.js, Express.js</li>
-  <li><strong>Fronted:</strong> Tailwind, React, Redux</li>
+  <li><strong>Backend:</strong> Django, Node.js, Java</li>
+  <li><strong>Fronted:</strong> Tailwind, React, Next.js</li>
   <li><strong>Bases de datos:</strong> PostgreSQL, MySQL</li>
   <li><strong>Recursos:</strong> Git</li>
-  <li><strong>Servicios:</strong> Stripe</li>
+  <li><strong>Servicios:</strong> Stripe, BotCity</li>
+  <li><strong>Despliegue:</strong> Hostinger, Heroku, render, aws</li>
 </ul>
 
 ## 🎨 Habilidades Creativas
@@ -28,6 +29,7 @@
 ## 🎯 Habilidades clave
 <ul>
   <li>Desarrollo web</li>
+  <li>Automatización de procesos. (RPA)</li>
   <li>Gestión de proyectos y trabajo en equipo</li>
   <li>Responsabilidad y Puntualidad</li>
 </ul>
