@@ -17,7 +17,7 @@
   <li><strong>Bases de datos:</strong> PostgreSQL, MySQL</li>
   <li><strong>Recursos:</strong> Git</li>
   <li><strong>Servicios:</strong> Stripe, BotCity</li>
-  <li><strong>Despliegue:</strong> Hostinger, Heroku, render, aws</li>
+  <li><strong>Despliegue:</strong> Hostinger, Netlify, Render, Aws</li>
 </ul>
 
 ## 🎨 Habilidades Creativas
